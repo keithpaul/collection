@@ -1,9 +1,13 @@
+
 {
-		"id": 001,
-		"title": "Orion",
-		"image": {"url": "https://images.unsplash.com/photo-1586234491813-2a87fb06abea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1581&q=80"},
-		"description": "This art is as big as Orions belt",
-		"price": "499",
-		"size": "400cm  x 200cm",
-		"medium": "Alcohol ink on Yupo"
+	"id": 1,
+	"category": "animal welfare",
+	"title": "Frenz of bunz",
+	"description": "🐰 an frenz",
+	"location": "Zoom - stay safe",
+	"pets": 1,
+	"extras": {
+		"catering": true,
+		"music": true
 	}
+}
