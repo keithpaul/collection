@@ -1,5 +1,5 @@
 
-  {
+  [{
     id: 001,
     title: "Orion",
     image: {url: 'https://images.unsplash.com/photo-1586234491813-2a87fb06abea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1581&q=80'},
@@ -25,5 +25,4 @@
     price: "399",
     size: "80cm x 80cm",
     medium: "Photo"
-  },
-
+  }]
