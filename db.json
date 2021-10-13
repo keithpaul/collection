@@ -1,4 +1,4 @@
-{
+
   {
     id: 001,
     title: "Orion",
@@ -26,4 +26,4 @@
     size: "80cm x 80cm",
     medium: "Photo"
   },
-}
+
