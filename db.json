@@ -1,9 +1,10 @@
-
 {
-	"id": 1,
-	"title": "Frenz of bunz",
-	"description": "🐰 an frenz",
-	"size": "60 x 60",
-	"medium": "Alcohol ink on yupo",
-	"price": 1
+	{
+		"id": 1,
+		"title": "Frenz of bunz",
+		"description": "🐰 an frenz",
+		"size": "60 x 60",
+		"medium": "Alcohol ink on yupo",
+		"price": 1
+	}
 }
